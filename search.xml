@@ -33,6 +33,19 @@
     
     
     <entry>
+      <title>测验2</title>
+      <link href="/2019/11/14/ce-yan-2/"/>
+      <url>/2019/11/14/ce-yan-2/</url>
+      
+        <content type="html"><![CDATA[<p><strong>这是第二次测验</strong></p><p>一直都想开一个博客，但是不知道在哪里开，CSDN，新浪，一打开铺天盖地的广告，神烦，体验不好一直没弄。有一次偶然看到说是Github可以搭建博客，界面简洁，没有广告，关键还可以练习下怎么用git,所以就选Github来自己搭，下面记录下搭建过程。<br>相关步骤：</p><p>1、安装Node.js和配置好Node.js环境。</p><p>下载链接如下：Node.js下载</p><p><a href="http://www.baidu.com" target="_blank" rel="noopener" title="百度后面的">百度额</a></p><p>找到DOWNLOADS,我的是win10系统，所以下载Windows版本。</p><p>作者：Jeeogle学Java</p><p>链接：<a href="https://www.jianshu.com/p/4f56cf990bba" target="_blank" rel="noopener">https://www.jianshu.com/p/4f56cf990bba</a></p><p>来源：简书</p><p>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测验</title>
       <link href="/2019/11/14/ce-yan/"/>
       <url>/2019/11/14/ce-yan/</url>

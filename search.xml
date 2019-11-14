@@ -33,6 +33,35 @@
     
     
     <entry>
+      <title>Hello World</title>
+      <link href="/2019/12/02/hello-world-fu-ben/"/>
+      <url>/2019/12/02/hello-world-fu-ben/</url>
+      
+        <content type="html"><![CDATA[<p>以下是正文</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tag1 </tag>
+            
+            <tag> tag2 </tag>
+            
+            <tag> tag3 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测验2</title>
       <link href="/2019/11/14/ce-yan-2/"/>
       <url>/2019/11/14/ce-yan-2/</url>
